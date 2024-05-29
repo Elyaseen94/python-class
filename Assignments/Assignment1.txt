@@ -1,0 +1,3 @@
+what is of Git ?
+used for keeping track of code change 
+how to connect a computer to github?

@@ -1,0 +1,29 @@
+# 2D Arrays in python:
+Two dimensional array is an array within an array.
+#Accessing Values:
+The data elements in two dimesnional arrays can be accessed using two indices. 
+One index referring to the main or parent array and another index referring to the position of the data element in the inner array.
+#operation in 2D Arrays:
+
+1\ Inserting Values:
+We can insert new data elements at specific position by using the insert() method and specifying the index.
+
+2\Updating Values:
+We can update the entire inner array or some specific data elements of the inner array by reassigning the values using the array index.
+
+3\Deleting the Values:
+We can delete the entire inner array or some specific data elements of the inner array by reassigning the values using the del() method with index.
+
+4\Size of a 2-D array
+The length of an array can be determined using the len() method.
+
+5\Slicing of a 2-D array in Python
+Array slicing is used to access multiple values within an array.
+
+#swich case in python:
+The ‘switch case’ statement is like the ‘if… else’ statement but a cleaner and quicker way than ‘if… else’.
+The significance of the switch case statement includes:
+1\Easy debugging.
+2\Easy to read and understand.
+3\Easy to maintain.
+4\Easy to verify the values to be checked and handled.

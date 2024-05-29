@@ -1,0 +1,72 @@
+Q1: 15 keywords in python:
+1. and: A logical operator
+2. class: To define a class
+3. break: To break out of loop 
+4. def: To define a function 
+5. del: To delete an object
+6. for: To create a for loop
+7. if: To make a conditional statement
+8. not: A logical operator
+10. while: To create a while loop
+11. else: Used in conditional statements
+12. if: To make a conditional statement
+13. is: To test if two variables are equal
+14. or: A logical operator
+15. false: Boolean value, result of comparison operations
+
+Q2: Arthimatic operation:
+1. Addition (+):
+this operation used to add two numbers.
+2. subtraction(-):
+this operation used to get a different between two numbers.
+3. Dvision (/):
+this operation used to divided two numbers>
+4. Multiplication(*):
+this operation used to multiply two numbers.
+5. Modulus(%):
+this operation used to get the remindar of division of two numbers.
+6. Exponentiation(x^y):
+this operation used to get the result of number to power any another number or variable>
+7. Floor division(x//y):
+this opreation it's rounds the result to the next number.
+
+Q3: Assigment operation:
+1.Assignment Operator (=):
+this operation to keep the value of variable in the memory.
+2. Addition Assigment operator(+=):
+this operation it means add number to the previous number 
+for example:
+x+=3 it is mean x=x+3 that's means add 3 to the last value of x.
+3. subtraction Assigment operator(-=):
+this operation it means subtraction number to the previous number 
+for example:
+x-=3 it is mean x=x-3 that's means subtraction 3 for the last value of x.
+4.Multiplication Assigment operator(*=):
+this operation it means multiply number to the previous number 
+for example:
+x*=3 it is mean x=x*3 that's means multiply 3 to the last value of x.
+5. division Assigment operator(/=):
+this operation it means divided bvariable by the last number 
+for example:
+x/=3 it is mean x=x/3 that's means divided x by 3.
+6.Modulus Assigment operator(%=):
+this operation it's mean after divided rounds the number to nearest number.
+7.Floor division Assigment operator(x//):
+this operation it's get the result of divided in integers number it's means to remove any numbers after decimal point.
+8. Exponentiation Assigment operator(**=):
+this operation likes the Exponentiation.
+for example:
+if x=3
+x**=3
+the result it become 27, how it multiply the value of x three times(3*3*3=27)>
+9. Bitwise AND Assigment operator (&=)
+
+10. Bitwise OR Assigment operator(|=)
+
+11.Bitwise XOR Assigment operator(^=)
+
+12.Bitwise Right Assigment operator(>>=)
+
+13. Bitwise Left Assigment operator(<<=)
+
+Q4: 
