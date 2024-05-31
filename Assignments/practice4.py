@@ -67,3 +67,33 @@ my_switch = PythonSwitch()
 
 print (my_switch.day(1))
 print (my_switch.day(4))
+print("*********************************")
+#Function to convert number into string
+# Switcher is dictionary data type here
+def numbers_to_strings(argument):
+    switcher = {
+        0: "zero",
+        1: "one",
+        2: "two",
+    }
+ 
+    return switcher.get(argument, "nothing")
+ 
+# Driver program
+if __name__ == "__main__":
+    argument=0
+    print (numbers_to_strings(argument))
+print("*********************************")
+bike = 'Yamaha'
+ 
+if bike == 'Hero':
+    print("bike is Hero")
+ 
+elif bike == "Suzuki":
+    print("bike is Suzuki")
+ 
+elif bike == "Yamaha":
+    print("bike is Yamaha")
+ 
+else:
+    print("Please choose correct answer")

@@ -1,3 +1,37 @@
-what is of Git ?
-used for keeping track of code change 
-how to connect a computer to github?
+#what is of Git ?
+
+a free and open-source version control system that allows developers to track changes in source code, collaborate with others, and manage different versions of a project.
+ 
+#how to connect a computer to github?
+step1:
+creat a github account.
+step2:
+Download and install gitt.
+step3:
+login with user name and password.
+step4:
+open the terminal and do this command  
+$ ssh-keygen -t rsa -C "your_email@example.com"
+step5:
+put your email that used for created git account.
+step6:
+copy your public key using this command 
+$ pbcopy < ~/.ssh/id_rsa.pub
+step7:
+Paste your ssh public key into your github account settings.
+step8:
+Go to your github Account Settings.
+step9:
+Click “SSH Keys” on the left.
+step10:
+Click “Add SSH Key” on the right.
+step11:
+Add a label (like “My laptop”) and paste the public key into the big text box.
+step12:
+In a terminal/shell, type the following to test it:
+$ ssh -T git@github.com
+step13:
+If it says something like the following, it worked:
+Hi username! You've successfully authenticated, but Github does
+not provide shell access.
+

@@ -3,6 +3,7 @@ Two dimensional array is an array within an array.
 #Accessing Values:
 The data elements in two dimesnional arrays can be accessed using two indices. 
 One index referring to the main or parent array and another index referring to the position of the data element in the inner array.
+
 #operation in 2D Arrays:
 
 1\ Inserting Values:

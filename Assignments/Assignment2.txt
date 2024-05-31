@@ -58,15 +58,4 @@ this operation likes the Exponentiation.
 for example:
 if x=3
 x**=3
-the result it become 27, how it multiply the value of x three times(3*3*3=27)>
-9. Bitwise AND Assigment operator (&=)
-
-10. Bitwise OR Assigment operator(|=)
-
-11.Bitwise XOR Assigment operator(^=)
-
-12.Bitwise Right Assigment operator(>>=)
-
-13. Bitwise Left Assigment operator(<<=)
-
-Q4: 
+the result it become 27, how it multiply the value of x three times(3*3*3=27).
